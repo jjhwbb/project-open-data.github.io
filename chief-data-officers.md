@@ -28,6 +28,7 @@ Department of Homeland Security                 | Federal Emergency Management A
 Department of Housing and Urban Development     |                                             |
 Department of Justice                           |                                             |
 Department of Labor                             |                                             |
+Department of Navy                              | Office of the Inspector General             | Johan Bos-Beijer
 Department of State                             |                                             |
 Department of the Interior                      |                                             |                
 Department of the Treasury                      |                                             |
@@ -41,4 +42,4 @@ Nuclear Regulatory Commission                   |                               
 Office of Personnel Management                  |                                             |
 Small Business Administration                   |                                             |
 Social Security Administration                  |                                             |
-U.S. Agency for International Development       |                                             | Brandon Pustejovsky 
+U.S. Agency for International Development       |                                             | Brandon Pustejovsky
