@@ -27,8 +27,9 @@ Department of Homeland Security                 |                               
 Department of Homeland Security                 | Federal Emergency Management Agency         | Scott Shoup
 Department of Housing and Urban Development     |                                             |
 Department of Justice                           |                                             |
-Department of Labor                             |                                             |
-Department of State                             |                                             |
+Department of Labor                             |                                             |
+Department of Navy                              | Office of the Inspector General             | Johan Bos-Beijer
+Department of State                             |                                             |
 Department of the Interior                      |                                             |                
 Department of the Treasury                      |                                             |
 Department of Transportation                    |                                             | Daniel Morgan                  
